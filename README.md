@@ -1,2 +1,21 @@
 # Dobot-Magician
-A complete study of the Dobot Magician kinematics using a simplified model
+A MATLAB code to study the Dobot Magician kinematics using a simplified model.
+Dobot Simulation with Geometric approach and the **DH Apporach** based on the *simplified model*.
+
+Created as part of:
+*Malla, O. and Shanmugavel, M. (2024), "Simplified model to study the kinematics of manipulators with parallelogram linkages", Industrial Robot, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/IR-01-2024-0046*
+
+The code requires the use of Peter Corke's Robotics Toolbox for Matlab:
+https://petercorke.com/toolboxes/robotics-toolbox/
+
+THe code contains:
+1) Robot Specs as per the real robot.
+2) Geometric Kinematic solution.
+3) Simplified model with DH parametrization.
+4) Comparison to the vlaues captured from Dobot Studio for
+joints rotations across the workspace.
+5) Test cases captured from the robot's hardware.
+6) Error and Workspace Plotting.
+7) Functions to calculate Inverse Kinematics analytically and numerically.
+
+The attached files contain different poses of the Dobot with respect to individual joint variable changes.
