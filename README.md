@@ -4,7 +4,7 @@ A simplified model to accurately study the Dobot Magician kinematics.
 - Python Code to move the robot to different poses and save them.
 
 If found helpful, kindly consider referencing:
-*Malla, O. and Shanmugavel, M. (2024), "Simplified model to study the kinematics of manipulators with parallelogram linkages", Industrial Robot, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/IR-01-2024-0046*
+*Malla, O. and Shanmugavel, M. (2024), "Simplified model to study the kinematics of manipulators with parallelogram linkages", Industrial Robot, Vol. 51 No. 5, pp. 704-714. https://doi.org/10.1108/IR-01-2024-0046*
 
 The code requires the use of Peter Corke's Robotics Toolbox for Matlab:
 https://petercorke.com/toolboxes/robotics-toolbox/
