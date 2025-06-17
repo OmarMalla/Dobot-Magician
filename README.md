@@ -9,7 +9,7 @@ If found helpful, kindly consider referencing:
 The code requires the use of Peter Corke's Robotics Toolbox for Matlab:
 https://petercorke.com/toolboxes/robotics-toolbox/
 
-THe Matlab code contains:
+The Matlab code contains:
 1) Robot Specs as per the real robot.
 2) Geometric Kinematic solution.
 3) Simplified model with DH parametrization.
